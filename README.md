@@ -18,6 +18,8 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 - Want to help? We are always looking for volunteers to help build these devices for the community. If you have the skills and want to contribute, please contact us via email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
 
+## Build Instructions
+
 ### 1. Read through the Maker Guide
 
 The [Maker Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
