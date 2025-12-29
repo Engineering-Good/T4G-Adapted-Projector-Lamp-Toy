@@ -67,7 +67,7 @@ You may redistribute and modify this documentation and make products using it un
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN-OHL-W v2 for applicable conditions.
 
-Source Location: <https://github.com/makersmakingchange/Playback-Switch>
+Source Location: <https://github.com/makersmakingchange/Star-Master-Projector-Switch-Adapted-Toy>
 
 ----
 
