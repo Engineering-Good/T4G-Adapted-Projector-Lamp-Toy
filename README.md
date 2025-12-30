@@ -41,10 +41,10 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Maker Guide          | 1.0     | [Adapted-Projector-Lamp_Toy_Maker_Guide](/documentation/Product_Manual_Adapted_Projector_Lamp_Toy.pdf)     |
-| Bill of Materials    | 1.0     | [Adapted-Projector-Lamp_Toy_Bill_of_Materials](/documentation/Adapted_Projector_Lamp_Toy_BOM.csv)     |
-| User Guide           | 1.0     | [Adapted-Projector-Lamp_Toy_User_Guide](/documentation/Product_Manual_Adapted_Projector_Lamp_Toy.pdf)    |
-| Changelog            | 1.0     | [Adapted-Projector-Lamp_Toy_Change_Log](/documentation/CHANGES.txt)     |
+| Maker Guide          | 1.0     | [Adapted_Projector_Lamp_Toy_Maker_Guide](/documentation/Product_Manual_Adapted_Projector_Lamp_Toy.pdf)     |
+| Bill of Materials    | 1.0     | [Adapted_Projector_Lamp_Toy_Bill_of_Materials](/documentation/Adapted_Projector_Lamp_Toy_BOM.csv)     |
+| User Guide           | 1.0     | [Adapted_Projector_Lamp_Toy_User_Guide](/documentation/Product_Manual_Adapted_Projector_Lamp_Toy.pdf)    |
+| Changelog            | 1.0     | [Adapted_Projector_Lamp_Toy_Change_Log](/documentation/CHANGES.txt)     |
 
 ## Open Hardware Attribution
 
