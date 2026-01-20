@@ -56,7 +56,7 @@ The core design for this Adapted Projector Lamp Toy is based on the Switch Adapt
 
 ## License
 
-Copyright (c) 2024 Neil Squire / Makers Making Change.
+Copyright (c) 2024 Engineering Good.
 
 This repository describes Open Hardware:
 
